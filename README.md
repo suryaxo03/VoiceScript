@@ -241,6 +241,10 @@ Contributions are welcome! To contribute:
 4. Push to the branch: `git push origin feature/your-feature`
 5. Open a Pull Request
 
+## 🧠 Future Improvements
+
+Adding support to the unstructured output text that turns into neatly organised and structured text.
+
 ---
 
 ## 📄 License
@@ -252,8 +256,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/suryaxo03)
-- Portfolio: [yourusername.github.io](https://suryaxo03.github.io)
+- GitHub: [@suryaxo03](https://github.com/suryaxo03)
+- Portfolio: [suryaxo03.github.io](https://suryaxo03.github.io)
 
 ---
 
