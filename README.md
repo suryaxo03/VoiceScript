@@ -2,7 +2,7 @@
 
 > A clean, browser-based live transcription tool powered by the Web Speech API. Speak naturally and watch your words appear in real time — no accounts, no servers, no audio uploads.
 
-**[📁 Repository](https://github.com/suryaxo03/VoiceScript)**
+**[🚀 Live Demo](https://suryaxo03.github.io/VoiceScript)** &nbsp;·&nbsp; **[📁 Repository](https://github.com/suryaxo03/VoiceScript)**
 
 ---
 
